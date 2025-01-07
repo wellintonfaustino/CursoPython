@@ -1,0 +1,8 @@
+A primeira melhoria que iremos fazer é resolver o problema os acentos nas
+palavras: CARACTERISTICAS, ESPECIFICOS, VOCABULARIO,
+REFERENCIAS, REFORMULAGOES e DEFINICOES. Esse problema ocorre,
+pois, nado configuramos o idioma que queremos utilizar no tesseract. Acesse
+o link https://github.com/tesseract-ocr/tessdata/blob/main/por.traineddata?
+raw=true para baixar o arquivo “por.traineddata”. Os arquivos de idiomas do
+tesseract contém dados treinados utilizados pelos algoritmos de
+reconhecimento de caracteres.
