@@ -21,3 +21,5 @@ mais_frequente = max(letras, key=letras.get)  # Letra com maior frequência
 frequencia = letras[mais_frequente]
 
 print(f'A letra que mais se repete na frase é "{mais_frequente}", aparecendo {frequencia}x.')
+
+
