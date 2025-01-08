@@ -1,8 +1,14 @@
-A primeira melhoria que iremos fazer é resolver o problema os acentos nas
-palavras: CARACTERISTICAS, ESPECIFICOS, VOCABULARIO,
-REFERENCIAS, REFORMULAGOES e DEFINICOES. Esse problema ocorre,
-pois, nado configuramos o idioma que queremos utilizar no tesseract. Acesse
-o link https://github.com/tesseract-ocr/tessdata/blob/main/por.traineddata?
-raw=true para baixar o arquivo “por.traineddata”. Os arquivos de idiomas do
-tesseract contém dados treinados utilizados pelos algoritmos de
-reconhecimento de caracteres.
+<title>Admin Panel</title>
+
+<style»
+Gimport url( https: //fonts.googleapis. com/css22fami ly=Inter:ughtB106; 206;300;400;500;600;700;800;960Rdisplay=suap" );
+
+;
+! tailuindess v3.3.3 | MIT License | https://tailuindcss.com
+.
+
+pn
+
+1. Prevent padding and border from affecting element width. (https: //github.com/mozdevs/cssremedy/issues/4)
+2. Allow adding a border to an element by just adding a border-width. (https: //github.com/tailwindcss/tailwindess/pul1/116)
+

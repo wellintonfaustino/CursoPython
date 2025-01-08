@@ -12,7 +12,7 @@ imagem_caminho = "teste.png"  # Substitua pelo caminho da sua imagem
 imagem = Image.open(imagem_caminho)
 
 # Usar o Tesseract para extrair texto
-texto = pytesseract.image_to_string(imagem)
+texto = pytesseract.image_to_string(imagem, lang='por')
 
 # Exibir o texto extraído
 print("Texto extraído da imagem:")
